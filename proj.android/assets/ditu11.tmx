@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="60" height="60" tilewidth="60" tileheight="40">
+ <tileset firstgid="1" name="grass1" tilewidth="60" tileheight="40">
+  <image source="grass1.png" width="60" height="40"/>
+  <tile id="0">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="tiled" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztwwEJAAAMBKH7/qXXYyi4aqqqqqqqqqqqqqqqqqrqqwfthQ4R
+  </data>
+ </layer>
+</map>

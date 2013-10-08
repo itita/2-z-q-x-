@@ -1,0 +1,22 @@
+{
+    "cardId" : 17,
+    "name" : "装甲掷弹兵",
+    "spriteFileName" : "Panzergrenadier",
+    "sfxDeployName" : "sfx_deploySoldier.m4a",
+    "sfxFireName" : "sfx_garade.mp3",
+    "speed" : 1,
+    "attackRange" : 4,
+    "damage" : 8,
+    "health" : 20,
+    "cost" :40,
+    "rarity" : 3,
+    "updateHealthRate" : 0,
+    "updateDamageRate" : 1,
+    "updateCostRate" : 1,
+    "updateSpeedRate" : 0.2,
+    "moveAnimateRate" : 0.125,
+    "unlockCostResourceTag" : 5,
+    "unlockCostCount" : 500,
+    "unlockNeedResourceTag" : 3,
+    "unlockNeedCount" : 0
+}

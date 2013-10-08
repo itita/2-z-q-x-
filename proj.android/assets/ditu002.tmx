@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="60" height="60" tilewidth="60" tileheight="40">
+ <tileset firstgid="1" name="terrian2" tilewidth="60" tileheight="40">
+  <image source="terrian2.png" width="300" height="160"/>
+  <tile id="0">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="tiled" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzFW+1u2zAMdJatq7O1ATK//7MuASKMu96dKFlyfggJGlviieTxQ+r7sizvyXG+j8vz88fze/bdmaPIM0qmMt+3+/j+/Nye34/EHXHF8ZDnZ5CpV54zzMfG3jVaxtt9/Arjd5DjFr73yHOu4Izj8z4+DtIx4n9g/rNTnoJ1Mxjjfl5fgBUxR3trlafYTZwnzod/24MXfbLHL9DOe20t7l3U5yhbLna0hvmO4oKzWOckcI7w28fczF5mYy77zOwS/SNjx9n47OYusW6vrbt1lfxMLtRt9EOMz2wU2aP9KJ+ZEfdOlfkK5o1gZXb/eEZx3hr2IhvzRseCwnHOH90zpyeOoqNr+LuLa63jlbHP2XyxlRgrlK+iPazmuaP4u8VGCi6UTWGPOYKL/b35RMvoyQeirpU+ajmCioOzctdYK6zP0cKRUd5WG1S5+0zdRp5Zl/85pxYbUd5WOVG3t+Wff8+qS5B/HIdgrEXduFjNfITZ8hG8jDpmmN0+MFmZ7tHeWQw7gpeRKyO2LYkVbVnx0BXWZfx8ZF8hYs7gjDH1Q8zl7JXty5G9FLZ+DXstFhXcLMaofVHxaGQPEX1uDZ8ux0cuR1kwP0Ueq/Ee45oRvKZ0m9Vz1hZrubbDksn/e/CyuifqG+XFfcjUYD14Z/lure7JcFkL5o2sfRTeUrfGusfpowez6wO/gpvXRcdKp9vCa5iXstxqI++Vd10PaWTvw8lZMGfjsvNJ58OOn9/Mb62D6TBb26JvI5crHbO9m+G/6qzNYcZYj/GrVmswHbO9G403cgWTg8VhPC+8iOdYnIr7lqmVRvMVylnzLdUrR35d4VPZduxbXsSaIzHjeRuzH3feoHw21lIRo8pFXU01uscRY63De1u+yq98NT6zmoF2onQ8Gq/qqde4CGVne6F+x2edjkfbtMu7WR6JelL267AxPSPedeF7MXOwPFLVNM62lR0jb6NNl9+OPmeo1TIKl9Kx2qeIeWZswsHyEJVHMp+9kd9qvB51yXoOszCXtT6Xr+em6s5MjafL+BTvxzlUTGfxeqTtlnWd72DuW/ZIxSaVS6KvoB9k66as3apeU/bMND7reveup+f4YYO5evDGe0gupx3Jb043Lb7Sg1fliqOwY+wu37Oyqlynx54z9+n26l35ZpZn4/tx30bcp0M+UHpXPSi3H5n+QQZ37/0y5VsurirMyAEtfcgjcyblu6r22RYuJ+t1qbPP2p0fZ49772XV8Kp8F+V096nYnenWc4HMeepevC6/r/VAMN9oiR+MB1QvrxUz8+HI94jX3S/A3OQU3i22XpNP8QD2OvZgdr2aTB81s5dYB2RlydzHa+U8x9Os59aC+QTv12Sr9cluC+9/tXI8O89wtWpLrhBrR8fHyEm1M+ZYY/XEYlWXMftpiSPZmsP1r/E8dlTczvRtZt11y9y5zu7dqLVn50MxF5m9v27tPb7Sa2NHrcfWfsX/GY0cfwE/0HLY
+  </data>
+ </layer>
+</map>

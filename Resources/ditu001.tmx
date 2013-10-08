@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="60" height="60" tilewidth="60" tileheight="40">
+ <tileset firstgid="1" name="terrain" tilewidth="60" tileheight="40">
+  <image source="terrain.png" width="240" height="160"/>
+  <tile id="0">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="9">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="cost" value="1"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="tiled" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzlW2tv2zAMVB5dsqV2/v+/bQyEGMMe33K3oh8EA2ki83TkkaLUtzHG78d4+yHPbZwe4xcYt8Rc2hzdcZuMeRvHxziAsSbm0ubojmXyWiBbz4/x5zHuwTk2bt93wuutBcJ8MtYC8Zvh1fKPf4WZ7EGYEb/kQ9H47eAlX6JxLWLmfs59TeKw+FmGj7njyxvWu5jzUsQc8QGN36hvd+NWm3sPzPQuL/40TbB+Rz7q2WzNfRmvfl71dY43wq9ml+SWxyH5KLJZ2r6OmEZYvMvcf2vwizAjP5a+eRp2jqS1kPFbyQX02fm5HmuTX45Z6p+cT2p2hr9qLqDPlqdtGt4Mv1H+pe/xXGFpvecPlk/vxW+Uf7JZ2mZhP4I5oj7NfWl7573Bb6Ue4LGuaYxVIyA90HTyMF61QLPJ41eroaO5kcdtNp+ewXu7tZzHr1VneLkR1U0ZO5HGUXxX6xuPX6sW8NZAYrVyNYoRtNZdjYnE76xcIuf3amb03ssEvJ4+S73NYOR70KPyXs3ftX1KB3Mm/2Z9m2zT6hM0V3QPXsWczb8V39ZskzkW5ZjsPsXbo2T4RXqbwazpkuRf6hjKSSeHD0+LIvxm+ztZvqPv0bCitevwu4p3dvqkVu3h6UQnJ1X5nbHvsXiu9BeieCv8yn1Ph2dLK7Saptrj6MQvypWzfNvzG6uHZK1FlV+0zh3MqBes7QWt/uBi/C3LL7LB29tGMSO/1nR6j/jlORBxiDDLXJ/VMolZW7vZ+izrikiNdxmv/cir8j3vSWvsaeVMfi1disYp4e/kKu5fWl9sBr8Sj9YH6NZZWS3zeOjEL6otIlqyxzPDQ4Vfyd//wu+MONb45dqo9dW/mt8ZPl3tP2fPhjvPi3hvx6e75wuRs+HZmDs2Z/lFdchXYT4OvzaYze/2ferBafFe2S+hs0z5PV7ToDwdOfeo9K/ovd59AG6rdVcGvbuqD9E9nuRX63t5uq3x/T78c3ztfCmDObrH42vDY8Tqs1VGpW+RiZUKv/TZQTxnYdcwR7XHqnUy/PLzRPr99h0ee7OwI8zReknrIUXuCXF+CRdaM7QXpVHdn2mYo+vnnR1H+EX9dMp7nE8Pc/R83LoHuMfg/Fq1zX18zrs8jqSdqNel4ffu/GijcudAO6dDT8LN+xe0BtJObz9B+HmNljnHRv3aSFxF+NV0f3k+1/HZB6P1RqaG9c6GI5gz/Erbr+Ovfmn1EdeS6vk18Yj2DBrmyPlgZq9Cfk35K3M3L5MzNR1AvTGOI3I+mPXpiqZm72RU+wre/yZ0sHZqI0+PMz1OvseyzkMz/GrnoNnaKFIjZHtk0f1dhF/CyX9bxRwdM+7MVvmV+ZLrzx6YK/cmZvKr1UkovrS73dEx446INfcMff5uzw9SzkcC
+  </data>
+ </layer>
+</map>

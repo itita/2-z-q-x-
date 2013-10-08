@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>lightning (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{139,2},{41,250}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{8,0},{41,250}}</string>
+                <key>sourceSize</key>
+                <string>{57,250}</string>
+            </dict>
+            <key>lightning (1).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{94,2},{43,250}}</string>
+                <key>offset</key>
+                <string>{1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{8,0},{43,250}}</string>
+                <key>sourceSize</key>
+                <string>{57,250}</string>
+            </dict>
+            <key>lightning (2).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{45,250}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{6,0},{45,250}}</string>
+                <key>sourceSize</key>
+                <string>{57,250}</string>
+            </dict>
+            <key>lightning (3).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{49,2},{43,250}}</string>
+                <key>offset</key>
+                <string>{-1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{6,0},{43,250}}</string>
+                <key>sourceSize</key>
+                <string>{57,250}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>lightning.pvr.ccz</string>
+            <key>size</key>
+            <string>{182,254}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:5a71bbd5fbd91e414fdfd393595d3e4e$</string>
+            <key>textureFileName</key>
+            <string>lightning.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

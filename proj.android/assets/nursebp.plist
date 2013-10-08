@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>nursebp.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{141,250}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{141,250}}</string>
+			<key>sourceSize</key>
+			<string>{141,250}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>nursebp.pvr.ccz</string>
+		<key>size</key>
+		<string>{145,254}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:ca1994c42ad8e538b8fd4c5916768342$</string>
+		<key>textureFileName</key>
+		<string>nursebp.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

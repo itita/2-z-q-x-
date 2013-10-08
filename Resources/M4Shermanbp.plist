@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>M4Shermanbp.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{250,171}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{250,171}}</string>
+                <key>sourceSize</key>
+                <string>{250,171}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>M4Shermanbp.pvr.ccz</string>
+            <key>size</key>
+            <string>{254,175}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:3e1594e83987f50a91c717d78057a59e$</string>
+            <key>textureFileName</key>
+            <string>M4Shermanbp.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

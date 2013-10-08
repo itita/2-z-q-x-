@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>gunlightd (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{96,32},{30,40}}</string>
+                <key>offset</key>
+                <string>{1,-20}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{40,40},{30,40}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightl (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{60,26}}</string>
+                <key>offset</key>
+                <string>{-24,-3}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,30},{60,26}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightld (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{38,68},{44,34}}</string>
+                <key>offset</key>
+                <string>{-19,-14}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{13,37},{44,34}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightlu (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{52,32},{42,32}}</string>
+                <key>offset</key>
+                <string>{-18,7}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{15,17},{42,32}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightr (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{64,2},{56,28}}</string>
+                <key>offset</key>
+                <string>{26,-2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{52,28},{56,28}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightrd (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{74,74},{40,30}}</string>
+                <key>offset</key>
+                <string>{18,-13}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{52,38},{40,30}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightru (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,68},{44,34}}</string>
+                <key>offset</key>
+                <string>{20,7}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{52,16},{44,34}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+            <key>gunlightu (0).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,30},{36,48}}</string>
+                <key>offset</key>
+                <string>{1,16}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{37,0},{36,48}}</string>
+                <key>sourceSize</key>
+                <string>{108,80}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>gunlight.pvr.ccz</string>
+            <key>size</key>
+            <string>{128,128}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:00d3856ccf6c7a90d39aad06ebc16a94$</string>
+            <key>textureFileName</key>
+            <string>gunlight.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ruins (2).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{151,2},{98,61}}</string>
+                <key>offset</key>
+                <string>{4,-8}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{8,20},{98,61}}</string>
+                <key>sourceSize</key>
+                <string>{106,85}</string>
+            </dict>
+            <key>ruins (3).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,124},{142,129}}</string>
+                <key>offset</key>
+                <string>{-1,5}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{7,7},{142,129}}</string>
+                <key>sourceSize</key>
+                <string>{158,153}</string>
+            </dict>
+            <key>ruins (4).png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{147,120}}</string>
+                <key>offset</key>
+                <string>{4,4}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{36,0},{147,120}}</string>
+                <key>sourceSize</key>
+                <string>{211,128}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ruins.pvr.ccz</string>
+            <key>size</key>
+            <string>{256,256}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:93c8bf5aa9b07a1130599e17cce6ceca$</string>
+            <key>textureFileName</key>
+            <string>ruins.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

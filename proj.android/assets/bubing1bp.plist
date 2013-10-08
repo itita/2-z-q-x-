@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>bubing1bp.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{213,250}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{213,250}}</string>
+                <key>sourceSize</key>
+                <string>{213,250}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>bubing1bp.pvr.ccz</string>
+            <key>size</key>
+            <string>{217,254}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:470a95b3e66ba196a6f34fe466f48ea4$</string>
+            <key>textureFileName</key>
+            <string>bubing1bp.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

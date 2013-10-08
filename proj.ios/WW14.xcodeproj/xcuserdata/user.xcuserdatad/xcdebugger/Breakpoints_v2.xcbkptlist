@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PuchaseHandle.m"
+            timestampString = "402845447.722016"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "208"
+            endingLineNumber = "208"
+            landmarkName = "-completeTransaction:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PuchaseHandle.m"
+            timestampString = "402845451.057879"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "-paymentQueue:updatedTransactions:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.088596"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.08885"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "138">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089228"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "142">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089412"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089606"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089787"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[PuchaseHandle paymentQueue:updatedTransactions:]"
+                  moduleName = "WW14"
+                  urlString = "file://localhost/Users/user/Documents/COCOS2D/cocos2d-x-2.2.0_new/projects/WW14/proj.ios/PuchaseHandle.m"
+                  timestampString = "402845451.089968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "162"
+                  endingLineNumber = "162"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppController.mm"
+            timestampString = "402850127.332613"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "-application:didRegisterForRemoteNotificationsWithDeviceToken:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
