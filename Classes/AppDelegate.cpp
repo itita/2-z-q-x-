@@ -18,6 +18,12 @@
 #include "GXScrollView.h"
 #include "GXChatHandler.h"
 
+//##############################################
+//
+//  @MJiao到此一游
+//
+//##############################################
+
 USING_NS_CC;
 
 AppDelegate::AppDelegate()
